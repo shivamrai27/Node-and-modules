@@ -1,6 +1,7 @@
 
 const os = require('os')
 
+
 const str = os.arch
 console.log(str);
 // const os_detailes = {
